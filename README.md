@@ -17,4 +17,4 @@ The project uses MVVM architecture and UserDefaults to persist data.
 
 # Full Video Link
 
-https://youtube.com/shorts/ajINjzHZ5M8?feature=share
+📫  https://youtube.com/shorts/ajINjzHZ5M8?feature=share
