@@ -14,3 +14,7 @@ The project uses MVVM architecture and UserDefaults to persist data.
 # Dark Mode
 
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-09-20 at 16 24 38](https://github.com/mutlucanozel/ToDoListApp/assets/125356427/d846e14e-76b0-46b4-b836-97b58b245494) ![Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 23 15 14](https://github.com/mutlucanozel/ToDoListApp/assets/125356427/9bd3383e-107c-4d5f-9fb6-133035a8c82e)
+
+# Full Video Link
+
+https://youtube.com/shorts/ajINjzHZ5M8?feature=share
