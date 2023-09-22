@@ -2,7 +2,7 @@
 
 In this project, ı built a to-do list from scratch using SwiftUI with a MVVM architecture pattern.
 
-The project uses MVVM architecture and UserDefaults to persist data.
+The project uses UserDefaults to persist data.
 # General view
  ![sds](https://github.com/mutlucanozel/ToDoListApp/assets/125356427/51544033-efbd-451a-ae4c-eafeb0888535)   
 
